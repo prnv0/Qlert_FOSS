@@ -54,7 +54,8 @@ The final result of Qlert is a robust and scalable platform that promotes respon
 
 ## Demo
 
-Uploading 322912082-abd98a50-b68d-4601-846c-882acc68c579.mp4…
+
+https://github.com/user-attachments/assets/dbe4c809-f131-4c85-8fe7-fbb64ee45f6e
 
 
 ## Installation
